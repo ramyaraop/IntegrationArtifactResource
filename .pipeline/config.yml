@@ -1,6 +1,6 @@
 steps:
   integrationArtifactResource:
     cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
-    integrationFlowId: flow1
+    integrationFlowId: test1
     operation: update
-    resourcePath: resource/data.xml
+    resourcePath: resource/employees.xsd
